@@ -11,7 +11,6 @@ import InboxIcon from "@mui/icons-material/Inbox";
 import DraftsIcon from "@mui/icons-material/Drafts";
 import HomeIcon from "@mui/icons-material/Home";
 import SettingsApplicationsIcon from "@mui/icons-material/SettingsApplications";
-import InfoIcon from "@mui/icons-material/Info";
 import ArticleIcon from "@mui/icons-material/Article";
 import React from "react";
 import GroupIcon from "@mui/icons-material/Group";

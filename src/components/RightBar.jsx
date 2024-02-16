@@ -20,8 +20,6 @@ const RightBar = () => {
       left={"75%"}
       pr={"50%"}
       sx={{
-        // width: "30%",
-        // backgroundColor: "lightblue",
         display: { xs: "none", sm: "block" },
       }}
     >

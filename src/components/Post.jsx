@@ -17,7 +17,6 @@ import { lightBlue, red } from "@mui/material/colors";
 import FavoriteIcon from "@mui/icons-material/Favorite";
 import ShareIcon from "@mui/icons-material/Share";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
-// import Checkbox from "@mui/material/Checkbox";
 import FavoriteBorder from "@mui/icons-material/FavoriteBorder";
 import Favorite from "@mui/icons-material/Favorite";
 import BookmarkBorderIcon from "@mui/icons-material/BookmarkBorder";
@@ -76,14 +75,6 @@ const Post = () => {
             <IconButton aria-label="share">
               <ShareIcon />
             </IconButton>
-            {/* <ExpandMore
-              expand={expanded}
-              onClick={handleExpandClick}
-              aria-expanded={expanded}
-              aria-label="show more"
-            > */}
-            {/* <ExpandMoreIcon />
-            </ExpandMore> */}
           </CardActions>
           <Collapse timeout="auto" unmountOnExit>
             <CardContent>

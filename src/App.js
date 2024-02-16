@@ -5,8 +5,7 @@ import Feed from "./components/Feeds";
 import RightBar from "./components/RightBar";
 import { Box, Container, Stack } from "@mui/material";
 import Navbar from "./components/Navbar";
-import Add from "./components/Add";
-// import Mui from "./components/Mui";
+import Add from "./components/AddPost";
 
 function App() {
   return (

@@ -98,9 +98,7 @@ const Add = () => {
             sx={{ width: "100%" }}
             id="standard-multiline-static"
             label="Post"
-            // multiline
             rows={4}
-            // defaultValue=""
             placeholder="Whats on your mind"
             variant="standard"
           />
